@@ -3,34 +3,8 @@
 <channel id="canal1">
 <display-name>Minha TV</display-name>
 </channel>
-<programme channel="canal1" start="20260630T140000" stop="20260630T152500">
-<title>Rainha da Sucata - Capítulo 10</title>
-</programme>
-<programme channel="canal1" start="20260630T152500" stop="20260630T170500">
-<title>Sessão da Tarde</title>
-</programme>
-<programme channel="canal1" start="20260630T170500" stop="20260630T171500">
-<title>Jornal Local</title>
-</programme>
-<programme channel="canal1" start="20260630T171500" stop="20260630T182000">
-<title>Tieta - Capítulo 10</title>
-</programme>
-<programme channel="canal1" start="20260630T182000" stop="20260630T193000">
-<title>Sinhá Moça (1986) - Capítulo 6</title>
-</programme>
-<programme channel="canal1" start="20260630T193000" stop="20260630T203000">
-<title>Coração Acelerado</title>
-</programme>
-<programme channel="canal1" start="20260630T203000" stop="20260630T212500">
-<title>Selva de Pedra</title>
-</programme>
-<programme channel="canal1" start="20260630T212500" stop="20260630T223000">
-<title>Quem Ama Cuida</title>
-</programme>
-<programme channel="canal1" start="20260630T223000" stop="20260701T000000">
-<title>A Grande Família (em loop)</title>
-</programme>
-<programme channel="canal1" start="20260701T000000" stop="20260701T140000">
-<title>Manutenção / Vinhetas</title>
+<programme channel="canal1" start="20260630T005900" stop="20260630T015000">
+<title>Rainha da Sucata - Cap.10</title>
+<desc>Teste de funcionamento</desc>
 </programme>
 </tv>
