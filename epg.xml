@@ -3,8 +3,9 @@
 <channel id="canal1">
 <display-name>Minha TV</display-name>
 </channel>
-<programme channel="canal1" start="20260630T005900" stop="20260630T015000">
+<programme channel="canal1" start="20260630T010900" stop="20260630T020000">
 <title>Rainha da Sucata - Cap.10</title>
 <desc>Teste de funcionamento</desc>
 </programme>
 </tv>
+
