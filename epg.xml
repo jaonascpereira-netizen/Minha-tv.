@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
 <channel id="canal1">
-<display-name>Minha TV</display-name>
+<display-name>MEU CANAL</display-name>
 </channel>
-<programme channel="canal1" start="20260630T010900" stop="20260630T020000">
-<title>Rainha da Sucata - Cap.10</title>
-<desc>Teste de funcionamento</desc>
+<programme channel="canal1" start="20260701T195000" stop="20260701T205000">
+<title>Rainha da Sucata - Capítulo 10</title>
+<desc>Seu canal de novelas</desc>
 </programme>
 </tv>
-
